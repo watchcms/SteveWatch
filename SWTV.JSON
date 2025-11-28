@@ -1,4 +1,4 @@
-[	
+[
         {"name": "优质资源","type": 1,"api": "https://api.yzzy-api.com/inc/api_mac10_all.php"},
         { "name": "360|点播", "type": 1, "api": "https://360zy.com/api.php/provide/vod/" },
         { "name": "旺旺|点播", "type": 1, "api": "https://api.wwzy.tv/api.php/provide/vod/" },
