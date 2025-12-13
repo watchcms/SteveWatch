@@ -22,24 +22,24 @@ Welcome to **SteveWatch+**. This repository provides specific subscription confi
 
 | Resource | Description | Subscription URL |
 | :--- | :--- | :--- |
-| **✨ Complete Collection** | All-in-one | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatchplus.JSON` |
-| **📺 SteveWatch** | Standard | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatch.json` |
-| **📡 TV** | Live Channels | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TV.JSON` |
-| **📡 TV (SW)** | SteveWatch Variant | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWTV.JSON` |
-| **🖼️ TV Icons** | Channel Icons | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TVicon.json` |
-| **🔞 AV** | Adult Content | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/AV.JSON` |
-| **🔞 AV (SW)** | SteveWatch Variant | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWAV.JSON` |
+| **✨ Complete Collection** | All-in-one | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatchplus.JSON` |
+| **📺 SteveWatch** | Standard | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatch.json` |
+| **📡 TV** | Live Channels | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TV.JSON` |
+| **📡 TV (SW)** | SteveWatch Variant | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWTV.JSON` |
+| **🖼️ TV Icons** | Channel Icons | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TVicon.json` |
+| **🔞 AV** | Adult Content | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/AV.JSON` |
+| **🔞 AV (SW)** | SteveWatch Variant | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWAV.JSON` |
 
 ### 🧩 SteveWatch+ (Type 3)
 *Compatible with SteveWatch+ (Standard + Extensions).*
 
 | Resource | Description | Subscription URL |
 | :--- | :--- | :--- |
-| **🎥 CMS** | CMS Interface | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMS.JSON` |
-| **🌐 CMS Remote** | Remote Config | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSRemote.JSON` |
-| **🔞 CMS Adult** | Adult CMS | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSAdult.json` |
-| **🖼️ CMS Icons** | Site Icons | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSicon.json` |
-| **✨ New CMS Icons** | Updated Icons | `https://gh.stevewatch.me/https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/NewCMSicon.json` |
+| **🎥 CMS** | CMS Interface | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMS.JSON` |
+| **🌐 CMS Remote** | Remote Config | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSRemote.JSON` |
+| **🔞 CMS Adult** | Adult CMS | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSAdult.json` |
+| **🖼️ CMS Icons** | Site Icons | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSicon.json` |
+| **✨ New CMS Icons** | Updated Icons | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/NewCMSicon.json` |
 
 ---
 
