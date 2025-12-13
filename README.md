@@ -37,7 +37,6 @@ Welcome to **SteveWatch+**. This repository provides specific subscription confi
 | :--- | :--- | :--- |
 | **🎥 CMS** | CMS Interface | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMS.JSON` |
 | **🌐 CMS Remote** | Remote Config | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSRemote.JSON` |
-| **🔞 CMS Adult** | Adult CMS | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/CMSAdult.json` |
 | **✨ New CMS Icons** | Updated Icons | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/NewCMSicon.json` |
 
 ---
