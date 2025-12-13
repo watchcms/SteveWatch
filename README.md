@@ -22,13 +22,11 @@ Welcome to **SteveWatch+**. This repository provides specific subscription confi
 
 | Resource | Description | Subscription URL |
 | :--- | :--- | :--- |
-| **✨ Complete Collection** | All-in-one | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatchplus.JSON` |
 | **📺 SteveWatch** | Standard | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/stevewatch.json` |
 | **📡 TV** | Live Channels | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TV.JSON` |
 | **📡 TV (SW)** | SteveWatch Variant | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWTV.JSON` |
 | **🖼️ TV Icons** | Channel Icons | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/TVicon.json` |
-| **🔞 AV** | Adult Content | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/AV.JSON` |
-| **🔞 AV (SW)** | SteveWatch Variant | `https://raw.githubusercontent.com/watchcms/SteveWatch/refs/heads/main/SWAV.JSON` |
+
 
 ### 🧩 SteveWatch+ (Type 3)
 *Compatible with SteveWatch+ (Standard + Extensions).*
