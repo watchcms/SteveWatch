@@ -1,0 +1,166 @@
+{
+    "sites": [
+        {
+            "name": "MISSAV",
+            "type": 3,
+            "api": "csp_miss",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/missav.js"
+        },
+        {
+            "name": "EXPORNTOONS",
+            "type": 3,
+            "api": "csp_EXPORNTOONS",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/EXPORNTOONS.js"
+        },
+        {
+            "name": "SpankBang",
+            "type": 3,
+            "api": "csp_SpankBang",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SpankBang.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Sana.png"
+        },
+        {
+            "name": "麻豆社",
+            "type": 3,
+            "api": "csp_madou",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/madou.js"
+        },
+        {
+            "name": "玩偶姐姐",
+            "type": 3,
+            "api": "csp_hkdoll",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hkdoll.js"
+        },
+        {
+            "name": "Hanime1",
+            "type": 3,
+            "api": "csp_Hanime1",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/hanime.js"
+        },
+        {
+            "name": "秋名山見(live)",
+            "type": 3,
+            "api": "csp_harunasan",
+            "ext": "https://gh.stevewatch.me/https://gist.githubusercontent.com/Yswag/d9f072b75dab5b1b107c523dd148eea3/raw/harunasan.js"
+        },
+        {
+            "name": "SupJav",
+            "type": 3,
+            "api": "csp_SupJav",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/SupJav.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Shupian.png"
+        },
+        {
+            "name": "91jav (無海報)",
+            "type": 3,
+            "api": "csp_91jav",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/91jav.js"
+        },
+        {
+            "name": "hohoj",
+            "type": 3,
+            "api": "csp_hohoj",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hohoj.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Shouhou.png"
+        },
+        {
+            "name": "KoreaPornMovie",
+            "type": 3,
+            "api": "csp_KPM",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/KoreaPornMovie.js"
+        },
+        {
+            "name": "pppHub",
+            "type": 3,
+            "api": "csp_ppron",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/ppp.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Epub.png"
+        },
+        {
+            "name": "avtoday",
+            "type": 3,
+            "api": "csp_avtoday",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avtoday.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/Laoda.png"
+        },
+        {
+            "name": "xHamster",
+            "type": 3,
+            "api": "csp_xhamster",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/xhamster.js"
+        },
+        {
+            "name": "Pornhub",
+            "type": 3,
+            "api": "csp_pornhub",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/pornhub.js",
+            "iconUrl": "https://gh.stevewatch.me/https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/emby/PornEmby.png"
+        },
+        {
+            "name": "jable",
+            "type": 3,
+            "api": "csp_jable",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/jable.js"
+        },
+        {
+            "name": "桃花族",
+            "type": 3,
+            "api": "csp_taohuazu",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/taohuazu.js"
+        },
+        {
+            "name": "花都影視",
+            "type": 3,
+            "api": "csp_hdys",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/hdys.js"
+        },
+        {
+            "name": "肉视频",
+            "type": 3,
+            "api": "csp_rou",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/rou.js"
+        },
+        {
+            "name": "Taiav",
+            "type": 3,
+            "api": "csp_Taiav",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/taiav.js"
+        },
+        {
+            "name": "JavMove",
+            "type": 3,
+            "api": "csp_JavMove",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/javmove.js"
+        },
+        {
+            "name": "有爱爱",
+            "type": 3,
+            "api": "csp_uaa",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/uua.js"
+        },
+        {
+            "name": "AVDB",
+            "type": 3,
+            "api": "csp_avdb",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/avdb.js"
+        },
+        {
+            "name": "KanAV",
+            "type": 3,
+            "api": "csp_kanav",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/fangkuia/XPTV/refs/heads/main/js/kanav.js"
+        },
+        {
+            "name": "kbjfan",
+            "type": 3,
+            "api": "csp_kbjfan",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/kbjfan.js"
+        },
+        {
+            "name": "twivideo",
+            "type": 3,
+            "api": "csp_twivideo",
+            "ext": "https://gh.stevewatch.me/https://raw.githubusercontent.com/Yswag/xptv-extensions/main/js/twivideo.js"
+        }
+    ]
+}
