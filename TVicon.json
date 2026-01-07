@@ -4,277 +4,277 @@
             "name": "优质资源",
             "type": 1,
             "api": "https://api.yzzy-api.com/inc/api_mac10_all.php",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/001.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/1icon.png"
         },
         {
             "name": "360|点播",
             "type": 1,
             "api": "https://360zyzz.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/02.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/2icon.png"
         },
         {
             "name": "旺旺|点播",
             "type": 1,
             "api": "https://api.wwzy.tv/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/03.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/3icon.png"
         },
         {
             "name": "墨斗|点播",
             "type": 1,
             "api": "https://www.mdzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/zxfccmm4/StevePinyin/refs/heads/main/icon/Coffee/4.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/4icon.png"
         },
         {
             "name": "黑木耳|点播",
             "type": 1,
             "api": "https://json02.heimuer.xyz/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/05.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/5icon.png"
         },
         {
             "name": "华为吧|点播",
             "type": 1,
             "api": "https://hw8.live/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/06.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/abra.png"
         },
         {
             "name": "腐剧|点播",
             "type": 1,
             "api": "http://www.fuju2024.cc:8013/ruifenglb_api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/07.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/amazon.png"
         },
         {
             "name": "金鹰|点播",
             "type": 1,
             "api": "https://jinyingzy.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/08.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/android.png"
         },
         {
             "name": "OK|点播",
             "type": 1,
             "api": "https://okzyw9.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/09.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/apple.png"
         },
         {
             "name": "宝片|点播",
             "type": 1,
             "api": "https://zpsps.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/10.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/audio.png"
         },
         {
             "name": "小黄人|点播",
             "type": 1,
             "api": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/11.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/baidu.png"
         },
         {
             "name": "牛牛|点播",
             "type": 1,
             "api": "https://api.niuniuzy.me/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/12.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/behance.png"
         },
         {
             "name": "丫丫|点播",
             "type": 1,
             "api": "https://cj.yayazy.net/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/13.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/bellsprout.png"
         },
         {
             "name": "影图|点播",
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/14.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/blogger.png"
         },
         {
             "name": "U酷|点播",
             "type": 1,
             "api": "https://api.ukuapi88.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/15.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/bulbasaur.png"
         },
         {
             "name": "豪华|点播",
             "type": 1,
             "api": "https://hhzyapi.com/api.php/provide/vod",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/16.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/caterpie.png"
         },
         {
             "name": "极速|点播",
             "type": 1,
             "api": "https://jszyapi.com/api.php/provide/vod",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/17.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/charmander.png"
         },
         {
             "name": "索尼|点播",
             "type": 1,
             "api": "https://suoniapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/18.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/clock.png"
         },
         {
             "name": "ikun|点播",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/19.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/d.png"
         },
         {
             "name": "非凡|点播",
             "type": 1,
             "api": "https://api.ffzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/20.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/dratini.png"
         },
         {
             "name": "量子|点播",
             "type": 1,
             "api": "https://cj.lzcaiji.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/21.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/dribbble.png"
         },
         {
             "name": "暴风|点播",
             "type": 1,
             "api": "https://bfzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/22.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/dropbox.png"
         },
         {
             "name": "红牛|点播",
             "type": 1,
             "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/23.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/eevee.png"
         },
         {
             "name": "快车|点播",
             "type": 1,
             "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/24.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/egg.png"
         },
         {
             "name": "闪电|点播",
             "type": 1,
             "api": "https://xsd.sdzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/25.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/email.png"
         },
         {
             "name": "樱花|点播",
             "type": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/26.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/evernote.png"
         },
         {
             "name": "卧龙|点播",
             "type": 1,
             "api": "https://wolongzyw.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/27.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/facebook.png"
         },
         {
             "name": "虎牙|点播",
             "type": 1,
             "api": "https://www.huyaapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/28.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/flickr.png"
         },
         {
             "name": "飘零|点播",
             "type": 1,
             "api": "https://p2100.net/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/29.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/github.png"
         },
         {
             "name": "无尽|点播",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/30.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/google.png"
         },
         {
             "name": "速博|点播",
             "type": 1,
             "api": "https://subocaiji.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/31.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/hangouts.png"
         },
         {
             "name": "魔都动漫|点播",
             "type": 1,
             "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/32.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/hat.png"
         },
         {
             "name": "最大|点播",
             "type": 1,
             "api": "https://api.zuidapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/33.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/in.png"
         },
         {
             "name": "新浪|点播",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/34.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/instagram.png"
         },
         {
             "name": "爱奇艺|点播",
             "type": 1,
             "api": "https://iqiyizyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/35.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/line.png"
         },
         {
             "name": "豆瓣|点播",
             "type": 1,
             "api": "https://caiji.dbzy5.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/36.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/mew.png"
         },
         {
             "name": "天涯|点播",
             "type": 1,
             "api": "https://tyyszy.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/37.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/path.png"
         },
         {
             "name": "茅台|点播",
             "type": 1,
             "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/38.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/pinterest.png"
         },
         {
             "name": "电影天堂|点播",
             "type": 1,
             "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/39.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/play.png"
         },
         {
             "name": "猫眼|点播",
             "type": 1,
             "api": "https://api.maoyanapi.top/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/40.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/pocket.png"
         },
         {
             "name": "光速|点播",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/41.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/reddit.png"
         },
         {
             "name": "如意|点播",
             "type": 1,
             "api": "https://cj.rycjapi.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/42.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/rss.png"
         },
         {
             "name": "百度云|点播",
             "type": 1,
             "api": "https://api.apibdzy.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/43.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/share.png"
         },
         {
             "name": "艾旦|点播",
             "type": 1,
             "api": "https://lovedan.net/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/44.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/skype.png"
         },
         {
             "name": "山海|点播",
             "type": 1,
             "api": "https://zy.sh0o.cn/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/45.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/snapchat.png"
         },
         {
             "name": "金蝉|点播",
             "type": 1,
             "api": "https://zy.jinchancaiji.com/api.php/provide/vod/",
-            "iconUrl": "https://raw.githubusercontent.com/ginibond/ginibond/main/Icons/RageBaby/46.png"
+            "iconUrl": "https://raw.githubusercontent.com/tugepaopao/Image-Storage/master/cartoon/Cute/soundcloud.png"
         }
     ]
 }
